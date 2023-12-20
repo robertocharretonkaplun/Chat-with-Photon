@@ -8,7 +8,7 @@ Breve descripción del proyecto y su propósito.
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](ruta/a/imagen1.png)
+![Captura de Pantalla 1](Ref/Ref1.png)
 ![Captura de Pantalla 2](ruta/a/imagen2.png)
 ![Captura de Pantalla 3](ruta/a/imagen3.png)
 
